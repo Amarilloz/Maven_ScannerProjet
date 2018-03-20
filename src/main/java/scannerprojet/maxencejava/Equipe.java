@@ -1,4 +1,4 @@
-package ScannerProjet.maven_scannerprojet;
+package scannerprojet.maxencejava;
 
 import java.awt.Color;
 import java.util.ArrayList;

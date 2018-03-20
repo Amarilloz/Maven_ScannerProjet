@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ScannerProjet.maven_scannerprojet;
+package scannerprojet.scannerprojet;
 
 /**
  *
  * @author Formation
  */
-public class JoueurF extends Joueur{
+public class ExitException extends Exception{
     
 }

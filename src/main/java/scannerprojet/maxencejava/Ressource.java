@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ScannerProjet.maven_scannerprojet;
+package scannerprojet.maxencejava;
 
 import java.awt.Color;
 import java.util.List;
